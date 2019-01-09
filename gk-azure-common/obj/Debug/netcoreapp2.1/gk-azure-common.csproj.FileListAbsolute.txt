@@ -1,0 +1,9 @@
+C:\Users\g.rao\gk-azure-common\gk-azure-common\bin\Debug\netcoreapp2.1\gk-azure-common.deps.json
+C:\Users\g.rao\gk-azure-common\gk-azure-common\bin\Debug\netcoreapp2.1\gk-azure-common.dll
+C:\Users\g.rao\gk-azure-common\gk-azure-common\bin\Debug\netcoreapp2.1\gk-azure-common.pdb
+C:\Users\g.rao\gk-azure-common\gk-azure-common\obj\Debug\netcoreapp2.1\gk-azure-common.csprojAssemblyReference.cache
+C:\Users\g.rao\gk-azure-common\gk-azure-common\obj\Debug\netcoreapp2.1\gk-azure-common.csproj.CoreCompileInputs.cache
+C:\Users\g.rao\gk-azure-common\gk-azure-common\obj\Debug\netcoreapp2.1\gk-azure-common.AssemblyInfoInputs.cache
+C:\Users\g.rao\gk-azure-common\gk-azure-common\obj\Debug\netcoreapp2.1\gk-azure-common.AssemblyInfo.cs
+C:\Users\g.rao\gk-azure-common\gk-azure-common\obj\Debug\netcoreapp2.1\gk-azure-common.dll
+C:\Users\g.rao\gk-azure-common\gk-azure-common\obj\Debug\netcoreapp2.1\gk-azure-common.pdb
